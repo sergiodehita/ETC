@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergiodehita
-- 👀 I’m a Ph.D. candidate specializing in human cancer and genetics
+- 👀 I’m a Ph.D. candidate specialized in human cancer and genetics
 - 🌱 I’m currently learning SAS programming language to manage and compute statistical analyses
 - 💞️ I’m looking to collaborate on omic projects for oncology and/or human genetics projects
 - 📫 Feel free to send me a message
